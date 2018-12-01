@@ -6,6 +6,10 @@
 
 * images directory
 * public directory
-* scss
+* nav bar
+
+* in css : some basic styling
+
+* scss (?)
 
 ---
