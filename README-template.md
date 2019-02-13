@@ -1,5 +1,7 @@
 [See here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
+Other resources [here](https://github.com/yagoestevez/anonymous-message-board), [here](https://github.com/alexdisdier/markdown-previewer), [here](#)
+
 # Project Title
 
 One Paragraph of project description goes here
