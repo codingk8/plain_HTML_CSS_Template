@@ -2,6 +2,9 @@
 
 Other resources [here](https://github.com/yagoestevez/anonymous-message-board), [here](https://github.com/alexdisdier/markdown-previewer), [here](#)
 
+__Also__:
+* large image: 1600 or 1700 px width
+
 # Project Title
 
 One Paragraph of project description goes here
