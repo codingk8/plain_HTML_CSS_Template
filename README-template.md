@@ -4,7 +4,7 @@ Other resources [here](https://github.com/yagoestevez/anonymous-message-board), 
 
 __Also__:
 * large image: 1600 or 1650 px width
-* [Licences](https://choosealicense.com/licenses/) and [more](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
+* [Licences](https://choosealicense.com/licenses/) and [more](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba) and [more](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)
 
 # Project Title
 
