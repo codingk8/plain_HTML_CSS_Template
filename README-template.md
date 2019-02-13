@@ -4,6 +4,7 @@ Other resources [here](https://github.com/yagoestevez/anonymous-message-board), 
 
 __Also__:
 * large image: 1600 or 1700 px width
+* [Licences](https://choosealicense.com/licenses/)
 
 # Project Title
 
