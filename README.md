@@ -7,15 +7,14 @@
 
 * images directory
 * public directory
-* nav bar
 
-* in css : some basic styling
+* in css : some basic styling (import fonts, body variables)
 
 * scss (?)
 
 ---
 
 <h3 align="center">A nice place to start</h3>
-<p align="center"><img src="https://media.giphy.com/media/CEGIJo68yny6s/giphy.gif" alt"Start"/></p>
+<p align="center"><img src="https://media.giphy.com/media/bdGdF94ymhiYo/giphy.gif" alt"Start"/></p>
 
 ---
